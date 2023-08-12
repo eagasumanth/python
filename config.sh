@@ -1,0 +1,3 @@
+echo "buildstarted"
+
+echo "buildfinished"
